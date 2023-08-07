@@ -1,0 +1,10 @@
+// Set IsOk and IsConfirmNeeded flags 
+    inBillingInfo.setConfirmNeeded(true); 
+    inBillingInfo.setOk(true); 
+ 
+    return inBillingInfo; 
+  } 
+ 
+  /** 
+   * seeBillingManager#confirm(BillingInfo) 
+   */ 
