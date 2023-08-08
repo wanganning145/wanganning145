@@ -1,0 +1,9 @@
+# This is a sample of typical Operator Integration properties file 
+# for external user manager client/server connection settings. 
+# 
+ 
+# SAMPLE OPERATOR CONFIGURATIONS 
+# 
+externalserveraddress=localhost 
+externalserverport=7779 
+cdsclientlogin=cds14sun 
