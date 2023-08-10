@@ -1,0 +1,9 @@
+return 0;
+}
+ 
+Game::Game()
+{
+	score = 0;
+	_id = 0;
+	top = 58;
+	speed = 1000;
