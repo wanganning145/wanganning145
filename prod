@@ -1,0 +1,5 @@
+** Add a product row.
+     * @param conn connection to Database
+     * @param prod_no product number
+     * @param prod_name product name
+     * @param price selling price
